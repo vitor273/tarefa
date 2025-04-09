@@ -1,0 +1,172 @@
+EXERCISEO1
+
+
+using static System.Console;
+int a  , b ;
+a = Convert.ToInt32(ReadLine());
+b = Convert.ToInt32(ReadLine());
+
+if (a>b)
+{
+    WriteLine($"{a} e maior que {b}");
+}
+else if (a<b)
+{
+    WriteLine($"{b} e maior que {a}");
+}
+
+ReadLine();
+
+EXERCISEO2
+
+using static System.Console;
+int a  , b, c;
+a = Convert.ToInt32(ReadLine());
+b = Convert.ToInt32(ReadLine());
+c = Convert.ToInt32(ReadLine());
+int menor, maior;
+if (a >= b && a >= c)
+{
+    maior = a;
+}
+else if (b >= a && b >= c)
+{
+    maior = b;
+}
+else
+{
+    maior = c;
+}
+
+if (a <= b && a <= c)
+{
+    menor = a;
+}
+else if (b <= a && b <= c)
+{
+    menor = b;
+}
+else
+{
+    menor = c;
+}
+WriteLine($"maior número é: {maior}");
+WriteLine($"menor número é: {menor}");
+ReadLine();
+
+
+EXERCISEO3
+
+
+using static System.Console;
+int media;
+media = Convert.ToInt32(ReadLine());
+
+if (media ==10)
+{
+    WriteLine("aprovado com distinçao");
+}
+else if (media >=7)
+{
+    WriteLine("aprovado");
+}
+else
+{
+    WriteLine("reprovado");
+}
+
+
+
+ReadLine();
+
+
+EXERCISEO4
+
+
+using static System.Console;
+WriteLine($"digite o preço dos produtos!");
+int a , b , c ;
+a = Convert.ToInt32(ReadLine());
+b = Convert.ToInt32(ReadLine());
+c = Convert.ToInt32(ReadLine());
+if (a < b && a < c)
+{
+    WriteLine($"o mais barato e o valor {a}");
+}
+else if (b < a && b < c)
+{
+    WriteLine($"o mais barato e o valor {b}");
+}
+else
+{
+    WriteLine($"o mais barato e o valor {c}");
+}
+
+ReadLine();
+
+
+EXERCISEO6
+
+
+using static System.Console;
+int n1 ;
+n1 = Convert.ToInt32(ReadLine());
+if ( n1%2== 0)
+{
+    WriteLine($"  e um numero par");
+}
+else
+{
+    WriteLine($" e um numero impar");
+}
+
+ReadLine();
+
+using static System.Console;
+WriteLine("QUAL A SUA IDADE?");
+int idade = Convert.ToInt32(ReadLine());
+
+if (idade>=18&& idade<=67)
+{
+    WriteLine("pode duar");
+
+}
+else
+{
+    WriteLine("nao pode duar infelismente;-;");
+
+}
+ReadLine();
+
+
+EXERCISEO5
+
+
+int n1 ;
+n1 = Convert.ToInt32(ReadLine());
+if ( n1%2== 0)
+{
+    WriteLine($"  e um numero par");
+}
+else
+{
+    WriteLine($" e um numero impar");
+}
+
+ReadLine();
+
+
+exerciseo7
+
+using static System.Console;
+int a = 10, b = 20, troca;
+
+a = a + b;
+b = a - b;
+a = a - b;
+WriteLine($"o valor de a e {a}");
+WriteLine($"o valor de b e {b}");
+
+
+EXERCISEO8
+
