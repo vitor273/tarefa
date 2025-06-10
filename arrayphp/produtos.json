@@ -1,0 +1,74 @@
+[
+    {
+        "nome": "sapato",
+        "quantidade": 43,
+        "refugadas": 9,
+        "tempo": 3
+    },
+    {
+        "nome": "chuteira",
+        "quantidade": 400,
+        "refugadas": 40,
+        "tempo": 30
+    },
+    {
+        "nome": "pirulito",
+        "quantidade": 421,
+        "refugadas": 72,
+        "tempo": 44
+    },
+    {
+        "nome": "calça",
+        "quantidade": 93,
+        "refugadas": 24,
+        "tempo": 2.3
+    },
+    {
+        "nome": "arroz",
+        "quantidade": 7,
+        "refugadas": 2,
+        "tempo": 0.6
+    },
+    {
+        "nome": "sapato",
+        "quantidade": 43,
+        "refugadas": 9,
+        "tempo": 3
+    },
+    {
+        "nome": "arroz",
+        "quantidade": 7,
+        "refugadas": 2,
+        "tempo": 0.6
+    },
+    {
+        "nome": "sapato",
+        "quantidade": 43,
+        "refugadas": 9,
+        "tempo": 3
+    },
+    {
+        "nome": "chuteira",
+        "quantidade": 400,
+        "refugadas": 40,
+        "tempo": 30
+    },
+    {
+        "nome": "pirulito",
+        "quantidade": 421,
+        "refugadas": 72,
+        "tempo": 44
+    },
+    {
+        "nome": "chuteira",
+        "quantidade": 400,
+        "refugadas": 40,
+        "tempo": 309
+    },
+    {
+        "nome": "chuteira",
+        "quantidade": 400,
+        "refugadas": 40,
+        "tempo": 309
+    }
+]
