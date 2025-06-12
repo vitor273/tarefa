@@ -1,74 +1,149 @@
 [
     {
-        "nome": "sapato",
-        "quantidade": 43,
-        "refugadas": 9,
-        "tempo": 3
-    },
-    {
-        "nome": "chuteira",
-        "quantidade": 400,
-        "refugadas": 40,
-        "tempo": 30
-    },
-    {
         "nome": "pirulito",
         "quantidade": 421,
         "refugadas": 72,
-        "tempo": 44
+        "tempo": 44,
+        "data": "2025-06-10"
     },
     {
         "nome": "calça",
         "quantidade": 93,
         "refugadas": 24,
-        "tempo": 2.3
+        "tempo": 2.3,
+        "data": "2025-06-10"
     },
     {
         "nome": "arroz",
         "quantidade": 7,
         "refugadas": 2,
-        "tempo": 0.6
+        "tempo": 0.6,
+        "data": "2025-06-10"
     },
     {
         "nome": "sapato",
         "quantidade": 43,
         "refugadas": 9,
-        "tempo": 3
+        "tempo": 3,
+        "data": "2025-06-10"
     },
     {
         "nome": "arroz",
         "quantidade": 7,
         "refugadas": 2,
-        "tempo": 0.6
+        "tempo": 0.6,
+        "data": "2025-06-10"
     },
     {
         "nome": "sapato",
         "quantidade": 43,
         "refugadas": 9,
-        "tempo": 3
+        "tempo": 3,
+        "data": "2025-06-10"
     },
     {
         "nome": "chuteira",
         "quantidade": 400,
         "refugadas": 40,
-        "tempo": 30
+        "tempo": 30,
+        "data": "2025-06-10"
     },
     {
-        "nome": "pirulito",
-        "quantidade": 421,
-        "refugadas": 72,
-        "tempo": 44
+        "nome": "boneco",
+        "quantidade": 23,
+        "refugadas": 9,
+        "tempo": 0.9,
+        "data": "2025-06-10"
     },
     {
-        "nome": "chuteira",
+        "nome": "boneco",
         "quantidade": 400,
-        "refugadas": 40,
-        "tempo": 309
+        "refugadas": 58,
+        "tempo": 5,
+        "data": "2025-06-10"
     },
     {
-        "nome": "chuteira",
-        "quantidade": 400,
-        "refugadas": 40,
-        "tempo": 309
+        "nome": "cd",
+        "quantidade": 1000,
+        "refugadas": 350,
+        "tempo": 10,
+        "data": "2025-06-10"
+    },
+    {
+        "nome": "sabonete",
+        "quantidade": 50,
+        "refugadas": 0,
+        "tempo": 20,
+        "data": "2025-06-11"
+    },
+    {
+        "nome": "chinelo",
+        "quantidade": 100,
+        "refugadas": 35,
+        "tempo": 7,
+        "data": "2025-06-11"
+    },
+    {
+        "nome": "meia",
+        "quantidade": 500,
+        "refugadas": 150,
+        "tempo": 4,
+        "data": "2025-06-11"
+    },
+    {
+        "nome": "mouse",
+        "quantidade": 150,
+        "refugadas": 10,
+        "tempo": 10,
+        "data": "2025-06-11"
+    },
+    {
+        "nome": "teclado",
+        "quantidade": 240,
+        "refugadas": 5,
+        "tempo": 20,
+        "data": "2025-06-11"
+    },
+    {
+        "nome": "celular",
+        "quantidade": 1000,
+        "refugadas": 350,
+        "tempo": 60,
+        "data": "2025-06-11"
+    },
+    {
+        "nome": "monitor",
+        "quantidade": 450,
+        "refugadas": 25,
+        "tempo": 30,
+        "data": "2025-06-11"
+    },
+    {
+        "nome": "carregador",
+        "quantidade": 500,
+        "refugadas": 67,
+        "tempo": 20,
+        "data": "2025-06-11"
+    },
+    {
+        "nome": "luva",
+        "quantidade": 650,
+        "refugadas": 78,
+        "tempo": 40,
+        "data": "2025-06-11"
+    },
+    {
+        "nome": "capacete",
+        "quantidade": 325,
+        "refugadas": 34,
+        "tempo": 60,
+        "data": "2025-06-11"
+    },
+    {
+        "nome": "calça",
+        "quantidade": 200,
+        "refugadas": 15,
+        "tempo": 35,
+        "data": "2025-06-11"
     }
 ]

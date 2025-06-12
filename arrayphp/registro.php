@@ -31,17 +31,17 @@ if (isset($_SESSION[''])) {
     <br>
     </br>
     <div class="login-container">
-        <h3 class="text-center mb-4">Novo Usuario</h3>
+        <h3 class="text-center mb-4"></h3>
         <?php if (isset($_GET['erro'])): ?>
             <div class="alert alert-danger text-center">Credenciais ja Existentes</div>
         <?php endif; ?>
         <form action="login.php" method="post">
             <div class="mb-3">
-                <label for="email" class="form-label">Novo E-mail</label>
+                <label for="email" class="form-label">E-mail</label>
                 <input type="email" class="form-control" name="email" id="email" required placeholder="Digite seu email">
             </div>
             <div class="mb-3">
-                <label for="senha" class="form-label">Nova Senha</label>
+                <label for="senha" class="form-label">Senha</label>
                 <input type="password" class="form-control" name="senha" id="senha" required placeholder="Digite sua senha">
             </div>
             <div class="d-grid">

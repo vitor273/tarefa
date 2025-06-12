@@ -30,6 +30,7 @@ $tempoTotalHoras = 0;
 
 <!DOCTYPE html>
 <html lang="pt-br">
+     <?php include 'menu.php'?>
 <head>
     <meta charset="UTF-8">
     <title>📊 Cálculos de Produção</title>
@@ -39,7 +40,7 @@ $tempoTotalHoras = 0;
 <div class="container mt-5">
     <div class="d-flex justify-content-between mb-4">
         <h2>📊 Cálculos de Produção</h2>
-        <a href="inicial.php" class="btn btn-secondary">← Voltar ao Menu</a>
+      
     </div>
 
     <?php if (empty($produtos)): ?>
